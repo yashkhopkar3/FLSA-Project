@@ -1,2 +1,2 @@
 # FLSA-Project
-Pantent Project
+Patent Project
